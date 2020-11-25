@@ -1,0 +1,10 @@
+To run:
+
+$ export FLASK_APP=theapp.py
+flask run --port <port number>
+
+
+Then open a browser on flask01 and point it to:
+
+127.0.0.1:<port number> (replace 5000 with your port 50xx)
+
